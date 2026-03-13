@@ -27,8 +27,8 @@
 const arnob = {
   location: "Dhaka, Bangladesh 🇧🇩",
   education: "BSc in CSE @ UITS (CGPA: 3.60/4.0)",
-  interests: ["Software Engineering", "Web Dev", "AI/ML", "Competitive Programming"],
-  currentlyLearning: ["System Design", "Advanced Algorithms"],
+  interests: ["Data Analytics","AI/ML", "Competitive Programming"],
+  currentlyLearning: ["Odoo"],
   funFact: "I've solved 500+ coding problems and I'm still hungry for more 🔥"
 };
 ```
